@@ -1,4 +1,4 @@
-[![MasterHead](https://d1aueex22ha5si.cloudfront.net/Conference/1209/BackGround/Machine%20Learning-1599808127617.gif)]
+[![MasterHead](https://media.tenor.com/_EYOsX_1CUkAAAAC/pixel-night.gif)]
 <h1 align="center">Hi 👋, I'm Ankit Gautam</h1>
 <h3 align="center">I'm a DATA Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
