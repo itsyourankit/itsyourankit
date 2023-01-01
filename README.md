@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/_EYOsX_1CUkAAAAC/pixel-night.gif)]
+[![MasterHead](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)]
 <h1 align="center">Hi 👋, I'm Ankit Gautam</h1>
 <h3 align="center">I'm a DATA Science Student</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
