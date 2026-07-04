@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/itsyourankit/assets/main/banner.png" width="100%" alt="Ankit Gautam Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0f172a,100:2563eb&text=ANKIT%20GAUTAM&fontSize=50&fontColor=ffffff&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=65"/>
 
 <h1>Hi 👋, I'm Ankit Gautam</h1>
 
