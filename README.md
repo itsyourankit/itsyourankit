@@ -184,22 +184,6 @@ Passionate about transforming raw data into meaningful insights using **Data Ana
 <img src="https://streak-stats.demolab.com?user=itsyourankit&theme=tokyonight&hide_border=true"/>
 
 </p>
-
-# 🔥 Daily Coding Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=itsyourankit&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-# 📅 Contribution Calendar
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsyourankit&theme=tokyo-night&hide_border=true"/>
-
-</p>
 # 📈 GitHub Stats
 
 <p align="center">
