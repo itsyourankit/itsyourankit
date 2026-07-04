@@ -164,28 +164,6 @@ Passionate about transforming raw data into meaningful insights using **Data Ana
 - 🏆 Solve 500+ DSA Problems
 
 ---
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsyourankit&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsyourankit&theme=tokyonight"/>
-
-</p>
-
-> 📌 Language percentages are automatically calculated from my public repositories and update as I build more projects.
-
-# 🔥 Daily Coding Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=itsyourankit&theme=tokyonight&hide_border=true"/>
-
-</p>
-# 📈 GitHub Stats
-
 <p align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=itsyourankit&show_icons=true&theme=tokyonight&hide_border=true"/>
